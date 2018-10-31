@@ -1,0 +1,5 @@
+pubilic class test(){
+  	 private string  name;
+	private string addr;
+	
+}
